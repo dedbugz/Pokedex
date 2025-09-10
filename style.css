@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+    background: #FFF5F2;
+    background: linear-gradient(to right, #F5BABB, #FFF5F2)
+}
